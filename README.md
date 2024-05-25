@@ -1,7 +1,11 @@
 #UWP
 
+Folder; Python
+Gooo!!!
 
-Folder: Tugas_JS_WP:
+
+
+Folder: Tugas_JS_WP: (Selesai)
 
 
 # Belajar JavaScript Dasar Banget
